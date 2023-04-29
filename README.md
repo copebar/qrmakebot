@@ -1,5 +1,5 @@
 # qrmakebot
 Для работы этого бота
 ```
-pip instal qrcode
+pip install qrcode
 ```
