@@ -1,2 +1,5 @@
 # qrmakebot
-Бот Telegram для создания QR-кодов.
+Для работы этого бота
+```
+pip instal qrcode
+```
